@@ -1,8 +1,0 @@
-server: 
-  port: 8080
-#  contextPath: /auth
-
-security:
-  oauth2:
-    resource: 
-      id: oauth2_id
